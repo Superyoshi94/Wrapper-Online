@@ -3,7 +3,7 @@
     font-family: "SF Text Regular";
     color: white; 
     overflow: hidden;
-    background-image: url("gradient.png");
+    background-image: url("https://cdn.vox-cdn.com/thumbor/VVXayrypyYIMqiHWIYdL77FRF_o=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/22408516/Big_Chungus.png");
     background-size: cover;
     border-style: none;
     margin: 5px 0;
